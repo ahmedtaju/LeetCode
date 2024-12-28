@@ -25,10 +25,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -37,4 +39,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
