@@ -44,4 +44,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
