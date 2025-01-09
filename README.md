@@ -48,4 +48,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
