@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Math
 |  |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
+| [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
