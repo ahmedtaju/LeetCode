@@ -60,14 +60,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
+| [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/ahmedtaju/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
+| [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
+## Sorting
+|  |
+| ------- |
+| [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 <!---LeetCode Topics End-->
