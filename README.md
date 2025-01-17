@@ -28,20 +28,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
