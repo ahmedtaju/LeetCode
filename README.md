@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ahmedtaju/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ahmedtaju/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/ahmedtaju/LeetCode/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
