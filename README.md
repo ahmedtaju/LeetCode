@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Array
 |  |
@@ -114,4 +116,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
