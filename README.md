@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedtaju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,4 +126,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
