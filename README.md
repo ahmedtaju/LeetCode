@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Array
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
+| [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ahmedtaju/LeetCode/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Prefix Sum
 |  |
@@ -148,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ahmedtaju/LeetCode/tree/master/0146-lru-cache) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
