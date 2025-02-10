@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ahmedtaju/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Array
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/ahmedtaju/LeetCode/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ahmedtaju/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ahmedtaju/LeetCode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 ## Greedy
 |  |
@@ -101,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 ## String
 |  |
@@ -135,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
