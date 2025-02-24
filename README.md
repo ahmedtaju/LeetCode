@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahmedtaju/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Array
 |  |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -176,4 +179,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ahmedtaju/LeetCode/tree/master/0561-array-partition) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
