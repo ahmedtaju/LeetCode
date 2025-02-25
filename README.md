@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/ahmedtaju/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ahmedtaju/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
