@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ahmedtaju/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ahmedtaju/LeetCode/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0071-simplify-path](https://github.com/ahmedtaju/LeetCode/tree/master/0071-simplify-path) |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ahmedtaju/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ahmedtaju/LeetCode/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ahmedtaju/LeetCode/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/ahmedtaju/LeetCode/tree/master/0415-add-strings) |
 | [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
