@@ -38,12 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ahmedtaju/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0792-binary-search](https://github.com/ahmedtaju/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
