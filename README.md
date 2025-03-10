@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedtaju/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ahmedtaju/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ahmedtaju/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ahmedtaju/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ahmedtaju/LeetCode/tree/master/0231-power-of-two) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ahmedtaju/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ahmedtaju/LeetCode/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/ahmedtaju/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
