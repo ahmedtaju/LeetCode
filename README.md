@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ahmedtaju/LeetCode/tree/master/0035-search-insert-position) |
 | [0057-insert-interval](https://github.com/ahmedtaju/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ahmedtaju/LeetCode/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedtaju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedtaju/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
