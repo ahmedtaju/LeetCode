@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/ahmedtaju/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ahmedtaju/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/ahmedtaju/LeetCode/tree/master/0290-word-pattern) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ahmedtaju/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ahmedtaju/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ahmedtaju/LeetCode/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/ahmedtaju/LeetCode/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ahmedtaju/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/ahmedtaju/LeetCode/tree/master/0415-add-strings) |
