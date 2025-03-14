@@ -87,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0728-self-dividing-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Counting Sort
 |  |
 | ------- |
