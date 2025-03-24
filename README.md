@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ahmedtaju/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedtaju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ahmedtaju/LeetCode/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/ahmedtaju/LeetCode/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
+| [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## String
 |  |
 | ------- |
