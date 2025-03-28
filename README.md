@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/ahmedtaju/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Stack
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/ahmedtaju/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -145,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ahmedtaju/LeetCode/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
@@ -239,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ahmedtaju/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -251,4 +256,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Union Find
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
