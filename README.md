@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ahmedtaju/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ahmedtaju/LeetCode/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/ahmedtaju/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ahmedtaju/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/ahmedtaju/LeetCode/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## String
@@ -222,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
 | [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
 |  |
 | ------- |
@@ -261,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
