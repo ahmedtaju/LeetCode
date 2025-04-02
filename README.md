@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ahmedtaju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ahmedtaju/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
