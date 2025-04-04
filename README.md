@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,11 +52,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Tree
 |  |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0101-symmetric-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ahmedtaju/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/ahmedtaju/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -138,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0290-word-pattern](https://github.com/ahmedtaju/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ahmedtaju/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Greedy
 |  |
 | ------- |
