@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ahmedtaju/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/ahmedtaju/LeetCode/tree/master/3430-count-days-without-meetings) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ahmedtaju/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ahmedtaju/LeetCode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/ahmedtaju/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ahmedtaju/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
 |  |
 | ------- |
