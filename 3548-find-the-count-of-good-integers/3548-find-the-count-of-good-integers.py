@@ -1,28 +1,63 @@
 class Solution:
-    def countGoodIntegers(self, n: int, k: int) -> int:
+    def factorial(self, number):
+        chakra = 1
+        for i in range(1, number + 1):
+            chakra *= i
+        return chakra
+
+    def generatePalindromes(self, cloneID, index, validPalindromes, k):
+        if index >= (len(cloneID) + 1) // 2:
+            if int(cloneID) % k == 0:
+                validPalindromes.append(cloneID)
+            return
+
+        if index != 0:
+            temp = cloneID
+            temp = temp[:index] + '0' + temp[index+1:]
+            temp = temp[:len(temp) - index - 1] + '0' + temp[len(temp) - index:]
+            self.generatePalindromes(temp, index + 1, validPalindromes, k)
+
+        for digit in range(1, 10):
+            temp = cloneID
+            temp = temp[:index] + str(digit) + temp[index+1:]
+            temp = temp[:len(temp) - index - 1] + str(digit) + temp[len(temp) - index:]
+            self.generatePalindromes(temp, index + 1, validPalindromes, k)
+
+    def countGoodIntegers(self, n, k):
+        validPalindromes = []
+        baseForm = "0" * n
+        self.generatePalindromes(baseForm, 0, validPalindromes, k)
         
-        half = (n + 1)//2 # example , n = 5 , half = 3
-        res = 0
-        seen = set()
-        
-        for v in range( 10**(half - 1), 10**(half)): # 100 -> 1000 ( 100 to 999)
-            vv = str(v) + str(v)[::-1][n % 2:] # 233 + 32 = "23332", 109+ 01 = "10901"
-            key = ''.join(sorted(vv))
-            
-            if int(vv) % k == 0 and key not in seen:
-                seen.add(key)
-                count = Counter(vv) # for finding the duplicates for "10901" {1:2, 0:2, 9:1}
-                x = (n - count['0']) * factorial(n - 1)
-                '''
-                   10901 => first position cannot be 0 so (5 - 2)
-                   Already placed one number on first position, so we can take remaining 4
-                   so (5 - 2)*4*3*2*1 total permutations
-                
-                '''
-                
-                for i,c in count.items():
-                    # Remove duplicates to handle repeated digits
-                    x //= factorial(c)
-                
-                res += x
-        return res
+        chakraPatterns = set()
+
+        for shadowClone in validPalindromes:
+            frequency = ['0'] * 10
+            for chakra in shadowClone:
+                idx = int(chakra)
+                if frequency[idx] == '9':
+                    frequency[idx] = 'A'  # beyond 9 digits (special case)
+                else:
+                    frequency[idx] = str(int(frequency[idx]) + 1)
+            chakraPatterns.add(''.join(frequency))
+
+        basePermutations = self.factorial(n)
+        totalCount = 0
+
+        for pattern in chakraPatterns:
+            permutation = basePermutations
+            for freq in pattern:
+                divisor = 10 if freq == 'A' else int(freq)
+                permutation //= self.factorial(divisor)
+
+            if pattern[0] != '0':
+                zeroCount = int(pattern[0]) - 1
+                zeroRestrictedPerm = self.factorial(n - 1)
+                for freq in pattern[1:]:
+                    divisor = 10 if freq == 'A' else int(freq)
+                    zeroRestrictedPerm //= self.factorial(divisor)
+                zeroRestrictedPerm //= self.factorial(zeroCount)
+                permutation -= zeroRestrictedPerm
+
+            totalCount += permutation
+
+        return int(totalCount)
