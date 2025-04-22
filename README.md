@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ahmedtaju/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3548-find-the-count-of-good-integers](https://github.com/ahmedtaju/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/ahmedtaju/LeetCode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/ahmedtaju/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/ahmedtaju/LeetCode/tree/master/1013-fibonacci-number) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ahmedtaju/LeetCode/tree/master/0204-count-primes) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/ahmedtaju/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
@@ -311,5 +314,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ahmedtaju/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ahmedtaju/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/ahmedtaju/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
