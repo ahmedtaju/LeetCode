@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ahmedtaju/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/ahmedtaju/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ahmedtaju/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ahmedtaju/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/ahmedtaju/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ahmedtaju/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ahmedtaju/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ahmedtaju/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Greedy
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/ahmedtaju/LeetCode/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/ahmedtaju/LeetCode/tree/master/0876-hand-of-straights) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/ahmedtaju/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ahmedtaju/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/ahmedtaju/LeetCode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/ahmedtaju/LeetCode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/ahmedtaju/LeetCode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ahmedtaju/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/ahmedtaju/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2215-finding-3-digit-even-numbers](https://github.com/ahmedtaju/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ahmedtaju/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Prefix Sum
 |  |
